@@ -10,7 +10,7 @@
 - Binary Exploitation
 - Reverse Engineering
 
-- 📫 How to reach me:
+<h3>📫 How to reach me:</h3>
 <p align="center">
 	<a href="https://twitter.com/tahabykl" target="blank">
 		<img align="center" src="img/tw.svg" alt="twitter" height="40" width="40" />
