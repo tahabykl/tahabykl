@@ -5,8 +5,8 @@
 - Bug Bounties
 
 <h3>🌱 I’m currently learning:</h3>
--Binary Exploitation
--Reverse Engineering
+- Binary Exploitation
+- Reverse Engineering
 
 - 📫 How to reach me:
 <p align="center">
