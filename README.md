@@ -1,10 +1,12 @@
 ### Hi there 👋 I'm Taha
 
 <h3>🔭 I’m used to work on:</h3>
-- Web Security & Bug Bounties
+- Web Security
+- Bug Bounties
 
 <h3>🌱 I’m currently learning:</h3>
-- Pwn Exploitation
+- Binary Exploitation
+- Reverse Engineering
 
 - 📫 How to reach me:
 <p align="center">
