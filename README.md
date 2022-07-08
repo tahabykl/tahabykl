@@ -1,6 +1,8 @@
 ### Hi there 👋 I'm Taha
 
-- 🔭 I’m used to work on:
+<h3>🔭 I’m used to work on:</h3>
+- Bug Bounties
+- Web Security
 
 - 🌱 I’m currently learning:
 
