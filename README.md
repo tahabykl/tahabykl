@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Binary Exploitation & Reverse Engineering**
 
-- 💻 Sir or madam, FYI I use the sh*tty (so called) OS commonly referred to as [Windows](https://www.microsoft.com/en-us/windows/)
+- 💻 Sir or madam, FYI I use the (so called) OS commonly referred to as [Windows](https://www.microsoft.com/en-us/windows/)
 
 - 📝 I regularly write articles on [https://t4ha.com](https://t4ha.com)
 
