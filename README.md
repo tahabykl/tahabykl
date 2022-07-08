@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Taha</h1>
 <h3 align="center">A passionate security guy from Turkey</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=tahabykl&label=Profile%20views&color=41292C&style=plastic" alt="tahabykl" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=tahabykl&label=Profile%20views&color=41292C&style=plastic" alt="tahabykl" /> </p>
 
-<p align="left"> <a href="https://twitter.com/tahabykl" target="blank"><img src="https://img.shields.io/twitter/follow/tahabykl?logo=twitter&style=for-the-badge" alt="tahabykl" /></a> </p>
+<p align="center"> <a href="https://twitter.com/tahabykl" target="blank"><img src="https://img.shields.io/twitter/follow/tahabykl?logo=twitter&style=for-the-badge" alt="tahabykl" /></a> </p>
 
 - 👨 I’m a **senior high school student**
 
