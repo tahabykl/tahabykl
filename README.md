@@ -1,4 +1,4 @@
-### Hi there 👋 I'm Taha
+### Hi there 👋, I'm Taha
 
 <h3>🔭 I’m used to work on:</h3>
 
