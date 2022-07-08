@@ -1,7 +1,8 @@
 ### Hi there 👋, I'm Taha
 
-`-> ~ whoami`
-I'm a high schools senior
+<h3>Who am I?:</h3>
+
+I am a high school senior in Turkey
 
 <h3>🔭 I’m used to work on:</h3>
 
