@@ -2,7 +2,7 @@
 
 <h3>Who am I?:</h3>
 
-I am a high school senior in Turkey
+I am a high school student who is very enthusiastic about cybersecurity and would like to continue my career in that field. Throughout my high-school years, I have managed to learn about several topics of computer science and improve in different programming languages, while also continuing my academic work.
 
 <h3>🔭 I’m used to work on:</h3>
 
