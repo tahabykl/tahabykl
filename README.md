@@ -15,7 +15,7 @@
 
 - 📫 How to reach me: **taha@t4ha.com**
 
-- 📄 Know about my experiences: [https://t4ha.com/cv](https://t4ha.com/cv)
+- 📄 Know about my experiences: [https://tahabiyikli.com/cv](https://t4ha.com/cv)
 
 - ⚡ Fun fact: **I think I am funny due to my joke about W*ndows. I use arch ofc.**
 
