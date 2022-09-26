@@ -11,11 +11,11 @@
 
 - 💻 Sir or madam, FYI I use the (so called) OS commonly referred to as [Windows](https://www.microsoft.com/en-us/windows/)
 
-- 📝 I regularly write articles on: [https://t4ha.com](https://t4ha.com)
+- 📝 I regularly write blogposts on: [https://tahabiyikli.com](https://tahabiyikli.com)
 
 - 📫 How to reach me: **taha@t4ha.com**
 
-- 📄 Know about my experiences: [https://tahabiyikli.com/cv](https://t4ha.com/cv)
+- 📄 Know about my experiences: [https://tahabiyikli.com/cv](https://tahabiyikli.com/cv)
 
 - ⚡ Fun fact: **I think I am funny thanks to my joke about W*ndows. I use arch ofc.**
 
